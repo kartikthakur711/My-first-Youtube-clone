@@ -1,6 +1,6 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Simple go to vs code push this code and with go live extention just go live 
 
 Author -Kartik Thakur
 
